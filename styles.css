@@ -1,0 +1,76 @@
+.imageholder{
+    position: relative;
+    text-align: center;
+    margin-top: 15%;
+}
+.caption{
+    position: relative;
+    text-align: center;
+    top: 80px;
+    left: 88px;
+    font-family: Helvetica,sans-serif;
+    font-size: 1em;
+    color: red;
+}
+
+.form {
+  position: relative;
+  text-align: center;
+}
+
+
+.buttsearch {
+  margin-top: 25px;
+  position: relative;
+  text-align: center;
+}
+
+.topright {
+  position: absolute;
+  right: 40px;
+  top: 9px;
+  word-spacing: 15px;
+}
+
+.bottomborder {
+  background-color: rgb(234, 234, 234);
+  width: 99%;
+  height: 40px;
+  position: absolute;
+  bottom: 0;
+}
+
+
+.bottomleft {
+  color: rgb(100,100,100);
+  position: absolute;
+  bottom: 12px;
+  word-spacing: 40px;
+  margin-left: 1%;
+}
+
+.bottomright {
+  color: rgb(100,100,100);
+  position: absolute;
+  bottom: 12px;
+  word-spacing: 40px;
+  margin-left: 82%;
+}
+
+
+
+.topright, .bottomleft, .bottomright  {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  color: rgb(255, 0, 0);
+  text-decoration: none;
+}
+
+a:link {
+  text-decoration:none;
+
+}
+a:visited {
+  text-decoration:none;
+
+}
